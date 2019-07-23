@@ -1,0 +1,35 @@
+p{
+    color: red;  
+  }
+  #para1{
+      color: yellow;
+  }
+  .colortext{
+      font-style: italic;
+      color: green;
+  }
+  h1{
+      color: orange;
+      background-color: lightblue;
+  }
+
+  body{
+      background-color: linen;
+      background-image: url("background.gif");
+  }
+  /* #para1{
+      border: 4px;
+      border-style: dotted;
+      border-color: red;
+  } */
+  #para1{
+      border-top: 4px;
+      border-top-style: dotted;
+      border-top-color: red;
+  }
+  .para2{
+      border: 10px;
+      border-style: solid;
+      border-color: green;
+
+  }
