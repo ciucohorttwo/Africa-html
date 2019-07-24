@@ -1,0 +1,28 @@
+#para0 {
+    border: 10px solid green;
+}
+#para1 {
+    color: yellow;
+    border-top: 4px dotted red;     
+}
+
+.colortext {
+    color: green;
+}
+
+h1 {
+    color: orange;
+    background-color: lightblue;
+}
+
+body {
+    background-color: linen;
+    background-image: url("background.gif");
+    width: 70%;
+    margin-top: 5%;
+}       
+
+#main {
+    border: 2px solid green;
+    width: 70%;
+}
